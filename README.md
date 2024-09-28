@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👩🏽‍💻Hi, I'm Stephanie!
 
-<!--
-**stephzilla/stephzilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer that specializes in NodeJS, Backend Services, and API Integration.
 
-Here are some ideas to get you started:
+* 🚀  I'm currently building [The Crowd List](http://www.thecrowdlist.com/)
+* 🧠  I'm currently exploring [React](http://joyofreact.com)
+* 📚  I'm reading [Algorithms: Absolute Beginner's Guide](https://www.kirupa.com/data_structures_algorithms/introduction_book_tutorials.htm)
+* 🤝  I'm open to collaborating on projects that can be interesting now & then
+* ⚡  In love with NodeJS & AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Get in touch:**
+* [Email](mailto:stephanie.hekker@gmail.com)
+* [Twitter](https://twitter.com/stephhekk)
+* [LinkedIn](https://www.linkedin.com/in/stephaniehekker)
