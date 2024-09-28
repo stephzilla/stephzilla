@@ -8,7 +8,4 @@ I'm a Software Engineer that specializes in NodeJS, Backend Services, and API In
 * 🤝  I'm open to collaborating on projects that can be interesting now & then
 * ⚡  In love with NodeJS & AWS
 
-**Get in touch:**
-* [Email](mailto:stephanie.hekker@gmail.com)
-* [Twitter](https://twitter.com/stephhekk)
-* [LinkedIn](https://www.linkedin.com/in/stephaniehekker)
+🐦[@StephHekk](https://twitter.com/stephhekk) | 💼 [StephanieHekker](https://www.linkedin.com/in/stephaniehekker)
